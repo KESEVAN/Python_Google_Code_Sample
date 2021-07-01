@@ -1,5 +1,5 @@
 # Python_Google_Code_Sample
-#Google Code Competition Work Sample - 2021 
+![pic](gcc.JPG)
 # Youtube Challenge - Python
 The Python Youtube Challenge uses Python3. 
 The below commands use Python3 specifically, to account for users that might 
